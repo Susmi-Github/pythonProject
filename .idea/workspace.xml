@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b6c75c6-0012-4115-9cd5-420b9e69b54a" name="Changes" comment="Lab003 added">
-      <change afterPath="$PROJECT_DIR$/src/ex_10082024/Lab004.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10082024/Lab005.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10082024/Lab006.py" afterDir="false" />
+    <list default="true" id="1b6c75c6-0012-4115-9cd5-420b9e69b54a" name="Changes" comment="2d Source added">
+      <change afterPath="$PROJECT_DIR$/src/ex_13082024/Lab0022.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13082024/Lab0023.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +51,8 @@
   "keyToString": {
     "Python.Lab001.executor": "Run",
     "Python.Lab002.executor": "Run",
+    "Python.Lab0022.executor": "Run",
+    "Python.Lab0023.executor": "Run",
     "Python.Lab003.executor": "Run",
     "Python.Lab004.executor": "Run",
     "Python.Lab005.executor": "Run",
@@ -93,12 +94,21 @@
       <option name="project" value="LOCAL" />
       <updated>1723749374150</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="2d Source added">
+      <option name="closed" value="true" />
+      <created>1723759586528</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1723759586528</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Lab002 added" />
     <MESSAGE value="Lab003 added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab003 added" />
+    <MESSAGE value="2d Source added" />
+    <option name="LAST_COMMIT_MESSAGE" value="2d Source added" />
   </component>
 </project>
