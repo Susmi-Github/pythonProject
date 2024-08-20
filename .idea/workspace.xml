@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1b6c75c6-0012-4115-9cd5-420b9e69b54a" name="Changes" comment="2d Source added">
-      <change afterPath="$PROJECT_DIR$/src/ex_13082024/Lab0022.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13082024/Lab0023.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab0026.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab0027.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20082024/Lab041.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13082024/Lab0022.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_13082024/Lab0022.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13082024/Lab0024.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_13082024/Lab0024.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,18 +27,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Susmi-Github"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Susmi-Github&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Susmi-Github/pythonProject.git",
-    "accountId": "f0b33f39-5d5c-4ec6-bea1-52e6ce966746"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Susmi-Github/pythonProject.git&quot;,
+    &quot;accountId&quot;: &quot;f0b33f39-5d5c-4ec6-bea1-52e6ce966746&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -53,6 +56,9 @@
     "Python.Lab002.executor": "Run",
     "Python.Lab0022.executor": "Run",
     "Python.Lab0023.executor": "Run",
+    "Python.Lab0024.executor": "Run",
+    "Python.Lab0026.executor": "Run",
+    "Python.Lab0027.executor": "Run",
     "Python.Lab003.executor": "Run",
     "Python.Lab004.executor": "Run",
     "Python.Lab005.executor": "Run",
@@ -102,7 +108,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723759586528</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="2d Source added">
+      <option name="closed" value="true" />
+      <created>1724100647224</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1724100647224</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
