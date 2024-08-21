@@ -1,6 +1,6 @@
-number = 3.14159265359
-formated_number = f"{number:.5f}"
-print(formated_number)
+#number = 3.14159265359
+#formated_number = f"{number:.5f}"
+#print(formated_number)
 
 #Table 9
 table=9

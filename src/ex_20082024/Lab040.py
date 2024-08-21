@@ -28,3 +28,6 @@ elif num2>num1 and num2>num3 :
     print("Max is num2")
 else:
     print("Max is num3")
+
+result =max(num1,num2,num3)
+print(result)

@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1b6c75c6-0012-4115-9cd5-420b9e69b54a" name="Changes" comment="2d Source added">
-      <change afterPath="$PROJECT_DIR$/src/ex_20082024/Lab040.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20082024/Lab038.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20082024/Lab039.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks/Task8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks/Task9.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13082024/Lab0023.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_13082024/Lab0023.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20082024/Lab040.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20082024/Lab040.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ex_20082024/Lab041.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20082024/Lab041.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,8 +65,12 @@
     "Python.Lab004.executor": "Run",
     "Python.Lab005.executor": "Run",
     "Python.Lab006.executor": "Run",
+    "Python.Lab038.executor": "Run",
+    "Python.Lab039.executor": "Run",
     "Python.Lab040.executor": "Run",
     "Python.Lab041.executor": "Run",
+    "Python.Task8.executor": "Run",
+    "Python.Task9.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true"
@@ -123,7 +132,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724125332067</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="2d Source added">
+      <option name="closed" value="true" />
+      <created>1724127493307</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1724127493307</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
